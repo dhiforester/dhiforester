@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @dhiforester
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on PHP
-- 📫 How to reach me PHP
+# Hi there, I'm Solihul Hadi! 👋
 
-<!---
-dhiforester/dhiforester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌍 About Me
+- 🌏 From: Kuningan, West Java, Indonesia
+- 💼 Currently working as a **Programmer for SIMRS** at **Rumah Sakit El-Syifa Kuningan**
+- ✨ Passionate about building efficient and scalable solutions for healthcare systems
+
+### 🔧 Tech Stack
+Here are some technologies I work with:
+
+- **Languages:** PHP, Python, Node.js, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Laravel, Express.js, React, Bootstrap
+- **Databases:** MySQL, PostgreSQL
+- **Others:** REST APIs, Git, Linux
+
+### 🚀 What I'm Working On
+- Developing and optimizing modules for the hospital management system (SIMRS)
+- Innovating solutions to streamline healthcare data processing
+- Building efficient financial tracking features to enhance reporting accuracy
+
+### 💡 Fun Facts
+- I love solving complex problems with clean code.
+- Always excited to learn new technologies and best practices.
+- I'm on a mission to simplify data processing in healthcare with AI.
+
+- 📣 Always open to collaborations and discussions about tech and innovation.
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Let's build something amazing together! 🚀
+
